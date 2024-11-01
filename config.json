@@ -42,7 +42,7 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "TID_UID",
+      "",
       "",
       ""
     ],
